@@ -1,10 +1,10 @@
 ### Hi there 👋
-I am a pre-final year CSE student at Sir M. Visvesvaraya Institute of Technology,Bangalore.I have interests in Computer Vision,Deep Learning,Image Processing and App development.I have participated in various hackathons like,**Nagarro Code-N-Counter**,where our team was finalist among 3000 teams all over India,and **International Flutter Hackathon**.
+I am a pre-final year CSE student at Sir M. Visvesvaraya Institute of Technology,Bangalore.I have interests in Computer Vision, Deep Learning, Image Processing and App development.I have participated in various hackathons like, **Nagarro Code-N-Counter**, where our team was finalist among 3000 teams all over India, and **International Flutter Hackathon**.
 
 ### Tech I have worked on
-OpenCV,Keras,Tensorflow,PyTorch,Flutter,Django
+OpenCV, Keras, Tensorflow, PyTorch, Flutter, Django
 
-- 👯 I’m looking to collaborate on projects related to Computer Vision,Deep Learning and App development.
+- 👯 I’m looking to collaborate on projects related to Computer Vision, Deep Learning and App development.
 - 💬 Ask me about anything through a chat
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/avinash-anand-lal/)
 
