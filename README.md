@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a pre-final year CSE student at Sir M. Visvesvaraya Institute of Technology, Bangalore.I have interests in Computer Vision, Deep Learning, Image Processing and App development.I have participated in various hackathons like, **Nagarro Code-N-Counter**, where our team was finalist among 3000 teams all over India, and **International Flutter Hackathon**.
+I am a final year CSE student at Sir M. Visvesvaraya Institute of Technology, Bangalore.I have interests in Computer Vision, Deep Learning, Image Processing and App development.I have participated in various hackathons like, **Nagarro Code-N-Counter**, where our team was finalist among 3000 teams all over India, and **International Flutter Hackathon**.
 
 ### Tech I have worked on
 OpenCV, Keras, Tensorflow, PyTorch, Flutter, Django
